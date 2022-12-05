@@ -13,4 +13,4 @@ Usa <code>pip install -r requirements.txt</code>
 
 o <code>pip install pytelegrambotapi</code> y <code>pip install schedule</code>
 
-[Image text](https://github.com/vel0w1/Telegram-Bot-Scheduler/blob/main/huhutao.jpeg)
+[Portada Hu Tao](https://raw.githubusercontent.com/vel0w1/Telegram-Bot-Scheduler/blob/main/huhutao.jpeg)
